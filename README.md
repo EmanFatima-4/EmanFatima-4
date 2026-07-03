@@ -13,4 +13,4 @@ Aspiring MERN Stack Developer | Passionate about web development | Continuously 
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/eman-fatima-0b417131a?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio: emanfportfolio.netlify.app
+- Portfolio: https://emanfportfolio.netlify.app/
