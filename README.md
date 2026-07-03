@@ -12,6 +12,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 💼 Role
+
+🟦 **MERN Stack Enthusiast**
+
+I am a passionate MERN Stack Developer focused on building modern, responsive, and scalable web applications using:
+
+- 🌿 MongoDB — Database
+- ⚡ Express.js — Backend Framework
+- ⚛️ React.js — Frontend Library
+- 🟢 Node.js — Server Environment
+
+- 💻 Passionate about Full-Stack Web Development
+- 🚀 Building real-world projects and improving problem-solving skills
+- 📚 Continuously learning modern web technologies
+- ✨ Focused on writing clean, efficient, and maintainable code
+  
 ## 📫 Connect with Me
 Github: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmanFatima-4)
 
