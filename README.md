@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Eman Fatima
 
-Aspiring MERN Stack Developer | Passionate about web development | Continuously learning and building real-world projects
+👋 Hi there, I'm Eman Fatima, a Computer Science student and aspiring MERN Stack Developer passionate about building modern web applications. I enjoy working with MongoDB, Express.js, React, and Node.js, and continuously improving my skills through real-world projects and hands-on learning.
 
 
 ## 🛠 Skills
@@ -16,3 +15,4 @@ Aspiring MERN Stack Developer | Passionate about web development | Continuously 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/eman-fatima-0b417131a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio: https://emanfportfolio.netlify.app/
+Github: https://github.com/EmanFatima-4/
